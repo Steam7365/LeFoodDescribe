@@ -6,7 +6,7 @@
 
 输入服务端管理员的账号密码即可进入LeFood后台管理系统界面
 
-![image-20230319214950929](mdImg/image-20230319214950929.png)
+![image-20230319214950929](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319214950929.png)
 
 
 
@@ -14,27 +14,27 @@
 
 LeFood服务端商品管理功能：此功能管理员可以管理商品信息，商品类型信息，以及商品的规格描述信息。默认查看上架商品，每种商品类型有多个商品信息。
 
-![image-20230319221101002](mdImg/image-20230319221101002.png)
+![image-20230319221101002](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319221101002.png)
 
 
 
 点击商品图片或者商品的名称即看到商品的完整信息，并且可以对该商品信息进行修改
 
-![image-20230319221417388](mdImg/image-20230319221417388.png)
+![image-20230319221417388](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319221417388.png)
 
 查看下架的商品
 
-![image-20230319220019883](mdImg/image-20230319220019883.png)
+![image-20230319220019883](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319220019883.png)
 
 
 
 #### 商品的规格管理
 
-![image-20230319220640145](mdImg/image-20230319220640145.png)
+![image-20230319220640145](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319220640145.png)
 
 #### 商品的类型管理
 
-![image-20230319222844380](mdImg/image-20230319222844380.png)
+![image-20230319222844380](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319222844380.png)
 
 
 
@@ -44,23 +44,23 @@ LeFood服务端商品管理功能：此功能管理员可以管理商品信息�
 
 订单信息可以看到本月每天的流水走势以及今年每个季度的流水金额
 
-![image-20230319221854095](mdImg/image-20230319221854095.png)
+![image-20230319221854095](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319221854095.png)
 
 管理员可以对订单进行处理
 
-![image-20230319222304747](mdImg/image-20230319222304747.png)
+![image-20230319222304747](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319222304747.png)
 
 
 
 #### 用户信息：
 
-![image-20230319222500260](mdImg/image-20230319222500260.png)
+![image-20230319222500260](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319222500260.png)
 
 
 
 #### ‘员工管理
 
-![image-20230319222615844](mdImg/image-20230319222615844.png)
+![image-20230319222615844](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319222615844.png)
 
 
 
@@ -68,40 +68,40 @@ LeFood服务端商品管理功能：此功能管理员可以管理商品信息�
 
 客户端首页，在不登录的情况下可查看商品，但不可购买
 
-![image-20230319223129956](mdImg/image-20230319223129956.png)
+![image-20230319223129956](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319223129956.png)
 
 #### 客户端注册与登录界面
 
 点击登录即可切换为登录界面
 
-![image-20230319223205840](mdImg/image-20230319223205840.png)
+![image-20230319223205840](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319223205840.png)
 
 点击商品图片即可进入商品购买界面
 
-![image-20230319224437864](mdImg/image-20230319224437864.png)
+![image-20230319224437864](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224437864.png)
 
 商品购买界面，点击加号可根据客户喜好选择规格
 
-![image-20230319224518391](mdImg/image-20230319224518391.png)
+![image-20230319224518391](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224518391.png)
 
-![image-20230319224605914](mdImg/image-20230319224605914.png)
+![image-20230319224605914](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224605914.png)
 
-![image-20230319224648802](mdImg/image-20230319224648802.png)
+![image-20230319224648802](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224648802.png)
 
 分类筛选
 
-![image-20230319224743829](mdImg/image-20230319224743829.png)
+![image-20230319224743829](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224743829.png)
 
-![image-20230319224930143](mdImg/image-20230319224930143.png)
+![image-20230319224930143](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224930143.png)
 
 地址管理
 
-![image-20230319224958585](mdImg/image-20230319224958585.png)
+![image-20230319224958585](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319224958585.png)
 
 订单支付功能未实现，订单页面也有很多未实现，例如申请退款、联系骑手、联系商家等功能。
 
-![image-20230319225420962](mdImg/image-20230319225420962.png)
+![image-20230319225420962](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319225420962.png)
 
 个人中心也有很多功能未实现。同时也有一些bug存在。
 
-![image-20230319225032803](mdImg/image-20230319225032803.png)
+![image-20230319225032803](https://cdn.staticaly.com/gh/Steam7365/LeFoodDescribe/main/mdImg/image-20230319225032803.png)
